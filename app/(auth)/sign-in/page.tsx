@@ -1,9 +1,10 @@
+"use client"
 import React from 'react'
 
 const SignIn = () => {
   return (
     <div>
-      
+      Home
     </div>
   )
 }
