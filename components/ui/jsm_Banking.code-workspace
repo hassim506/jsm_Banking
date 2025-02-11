@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "C:/Users/Hassim Diallo/Downloads/assets"
+		}
+	],
+	"settings": {
+		"postman.settings.dotenv-detection-notification-visibility": false,
+		"liveServer.settings.multiRootWorkspaceName": "jsm_Banking"
+	}
+}
